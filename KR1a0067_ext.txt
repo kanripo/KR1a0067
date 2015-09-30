@@ -1,6 +1,18 @@
-# -*- mode: mandoku-view -*-
+#+KEY: 易圖通變/卷中
+#+PROPERTY: JUAN 卷中
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 01易類
+#-*- mode: mandoku-view; -*-
 #+TITLE: 易圖通變__易筮通變
-#+DATE: 2015-09-23 09:34:49
-#+PROPERTY: KEY 易圖通變/卷下
-#+PROPERTY: JUAN 9
-
+#+PROPERTY: ID ZB1a0066a
+#+KEY: 易圖通變/卷上
+#+PROPERTY: JUAN 卷上
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 01易類
+#-*- mode: mandoku-view; -*-
+#+TITLE: 易圖通變__易筮通變
+#+PROPERTY: ID ZB1a0066a
+#+KEY: 易圖通變/卷下
+#+PROPERTY: JUAN 卷下
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 01易類

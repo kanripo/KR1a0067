@@ -1,8 +1,9 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 易圖通變__易筮通變
-#+DATE: 2015-09-23 09:34:49
-#+PROPERTY: KEY 易圖通變/卷下
-#+PROPERTY: JUAN 0
+# -*- mode: mandoku-view; -*-
+#+TITLE: 易圖通變
+#+DATE: 2015-08-24 21:56:15.370875
+#+PROPERTY: ID KR1a0067
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0067_WYG_000-1a>¶
 欽定四庫全書　　　　　經部一¶
 　易圖通變　　　　　　　易類¶
@@ -35,6 +36,7 @@
 　　　　二月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 序
 <pb:KR1a0067_WYG_000-3a>¶
 欽定四庫全書¶
 　易圖通變序¶
@@ -95,4 +97,3 @@
 學易者同究於真是焉兼筮法亦乖素&KR0562;附見後篇求¶
 古同志宜能眀其非敢誣也大元大徳庚子九月臨川¶
 道士雷思齊齊賢序¶
-
