@@ -1,0 +1,6 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 易圖通變__易筮通變
+#+DATE: 2015-09-23 09:34:49
+#+PROPERTY: KEY 易圖通變/卷下
+#+PROPERTY: JUAN 9
+
